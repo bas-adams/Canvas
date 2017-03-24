@@ -1,0 +1,40 @@
+#conteiner{
+	position: relative;
+	width: 960px;
+	height: 536px;
+	background: url('img/BG.png') no-repeat;
+}
+
+#selectOpt{
+	position: absolute;
+	left:705px;
+	top:150px;
+	width: 160px;
+	height: 38px;
+	border: none;
+	outline:none;
+	cursor:pointer;
+	-webkit-border-radius:4px;
+  -moz-border-radius:4px;
+	border-radius: 4px; 
+	padding:3px;
+	margin: 0;
+	background: #bbe7f0;
+  color:#0f5969;
+ 	-webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+}
+
+#button{
+	position: absolute;
+	left: 738px;
+	top:350px;
+	background: url('img/BTN_Spin.png') no-repeat;
+	width: 98px;
+	height: 98px;
+	border: none;
+}
+#button:disabled{
+	background: url('img/BTN_Spin_d.png') no-repeat;
+}

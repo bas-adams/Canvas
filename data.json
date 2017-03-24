@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"name" : "wild",
+			"icon" : "img/SYM1.png"
+		},
+		{
+			"name" : "strawberry",
+			"icon" : "img/SYM3.png"
+		},
+		{
+			"name" : "pineapple",
+			"icon" : "img/SYM4.png"
+		},
+		{
+			"name" : "lemon",
+			"icon" : "img/SYM5.png"
+		},
+		{
+			"name" : "watermelon",
+			"icon" : "img/SYM6.png"
+		},
+		{
+			"name" : "grape",
+			"icon" : "img/SYM7.png"
+		}
+]
+}
